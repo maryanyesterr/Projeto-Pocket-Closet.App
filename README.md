@@ -1,2 +1,17 @@
-# Projeto-Pocket-Closet.App
-Pocket Closet é um app mobile em Flutter e Dart para digitalizar seu guarda-roupa. Ele permite catalogar roupas por fotos, criar looks na tela, planejar o visual em um calendário e ver estatísticas de uso. Atualmente em desenvolvimento inicial, basta clonar o repositório, rodar flutter pub get e executar com flutter run.
+# pocket_closet
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
